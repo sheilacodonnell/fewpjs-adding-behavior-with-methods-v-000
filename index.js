@@ -35,5 +35,4 @@ class Bird {
       return `${this.name} says squawk!`
     }
   }
-  
 }
